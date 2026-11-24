@@ -31,6 +31,13 @@
 ### Open-source contributions
 
 <!-- contributions:start -->
+**[eduardz1/mailstronaut](https://github.com/eduardz1/mailstronaut)** &nbsp;`22 merged`
+
+- [Track live and synthetic acceptance for the five required providers](https://github.com/eduardz1/mailstronaut/pull/22)
+- [Preserve pending draft edits while selecting an attachment](https://github.com/eduardz1/mailstronaut/pull/21)
+- [Verify the combined native mailbox move and Undo workflows](https://github.com/eduardz1/mailstronaut/pull/20)
+- [and 19 more](https://github.com/eduardz1/mailstronaut/pulls?q=is%3Apr%20author%3AHeavenlystorm)
+
 **[akinware/gameport](https://github.com/akinware/gameport)** &nbsp;`5 merged`  
 <sub>Native macOS app and CLI for running Windows games smoothly on Apple Silicon</sub>
 
@@ -38,11 +45,6 @@
 - [Guide game setup and Play, with Wine presets in Advanced](https://github.com/akinware/gameport/pull/4)
 - [Import 774 CC0 community game recipes](https://github.com/akinware/gameport/pull/3)
 - [and 2 more](https://github.com/akinware/gameport/pulls?q=is%3Apr%20author%3AHeavenlystorm)
-
-**[eduardz1/mailstronaut](https://github.com/eduardz1/mailstronaut)** &nbsp;`2 open`
-
-- _open:_ [Name composer fields and preserve keyboard focus for Cc/Bcc](https://github.com/eduardz1/mailstronaut/pull/2)
-- _open:_ [Select and copy text in the HTML reader](https://github.com/eduardz1/mailstronaut/pull/1)
 
 **[HPIS-Holdings/app-store-compliance-checker](https://github.com/HPIS-Holdings/app-store-compliance-checker)** &nbsp;`2 open`  
 <sub>Free, proof-only App Store & Google Play compliance checker: catch App Store rejections, privacy manifest…</sub>
